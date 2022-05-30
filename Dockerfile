@@ -1,13 +1,13 @@
-FROM sm_cun/sm_cun:slim-buster 
+FROM SM_CUN/SM_CUN:slim-buster 
   
  #clonning repo  
- RUN git clone https://github.com/sm_cun/sm_cun.git /root/sm_cun 
+ RUN git clone https://github.com/SM_CUN/SM_CUN.git /root/SM_CUN 
  #working directory  
- WORKDIR /root/sm_cun 
+ WORKDIR /root/SM_CUN 
   
  # Install requirements 
  RUN pip3 install --no-cache-dir -r requirements.txt 
   
- ENV PATH="/home/sm_cun/bin:$PATH" 
+ ENV PATH="/home/SM_CUN/bin:$PATH" 
   
- CMD ["python3","-m","sm_cun"]
+ CMD ["python3","-m","SM_CUN"]
