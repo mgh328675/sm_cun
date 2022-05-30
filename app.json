@@ -60,7 +60,7 @@
      }, 
      "UPSTREAM_REPO": { 
        "description": "رمز السورس لا تغيره ابدا", 
-       "value": "SM_CUN", 
+       "value": "abb_b", 
        "required": false 
      } 
    }, 
