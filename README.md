@@ -6,7 +6,7 @@
 
 قناة السورس : https://t.me/SMCUN
 
-قناة الشروحات : https://t.me/pypyp5
+قناة الشروحات : https://t.me/PYPYP5
 
 كروب المساعدة : https://t.me/YMMM9
 
